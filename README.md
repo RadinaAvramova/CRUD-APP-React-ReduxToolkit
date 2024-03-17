@@ -1,2 +1,5 @@
-# CRUD-APP-React-ReduxToolkit
-CRUD-APP-React-ReduxToolkit
+# React ReduxToolkit CRUD APP
+
+complete source of CRUD APP React ReduxToolkit
+
+
